@@ -1,0 +1,16 @@
+{
+  "facts": [
+    {
+      "factID": 1,
+      "factText": "poopbutt"
+    },
+    {
+      "factID": 2,
+      "factText": "The early bird catches the worm."
+    },
+    {
+      "factID": 3,
+      "factText": "Knowledge is power."
+    }
+  ]
+}
